@@ -1,0 +1,4 @@
+IStudentService = service.implementation.LibrarySystemImplemenation_JDBC
+IBookService = service.implementation.LibrarySystemImplementation_JDBC
+IStudentLoginService = service.implementation.LibrarySystemImplementation_JDBC
+
